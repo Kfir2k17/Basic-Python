@@ -1,0 +1,3 @@
+5 = I love python so much. it is a great fun. greatest. Really
+9 = And I love javascript even more!
+5 = Both are great!
