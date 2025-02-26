@@ -97,7 +97,6 @@ StyleCopReport.xml
 *.tmp
 *.tmp_proj
 *_wpftmp.csproj
-*.log
 *.tlog
 *.vspscc
 *.vssscc
@@ -490,6 +489,9 @@ fabric.properties
 .idea/misc.xml
 # *.ipr
 *.idea/
+*.venv/
+.config
+.csproj
 
 # Sonarlint plugin
 # https://plugins.jetbrains.com/plugin/7973-sonarlint
